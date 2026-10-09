@@ -4,7 +4,7 @@
 
 Los **Cactuar** son criaturas con forma de cactus que aparecen en muchas entregas de la saga *Final Fantasy*, creada por Square (hoy Square Enix). Son famosos por ser rápidos, difíciles de atrapar y por su ataque `1000 agujas`, que causa siempre el mismo daño fijo sin importar las defensas del rival. Son un ejemplo de cómo un monstruo sencillo puede convertirse en un icono de la cultura de los videojuegos a nivel mundial.
 
-![Cactuar de Final Fantasy (imagen local)](assets/mi-imagen.jpg)
+![Cactuar de Final Fantasy (imagen local)](assets/mi-imagen.png)
 
 *Figura 1. Imagen de un Cactuar guardada en la carpeta `assets` del repositorio.*
 
