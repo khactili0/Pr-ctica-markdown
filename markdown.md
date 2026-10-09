@@ -57,6 +57,6 @@ Pasos habituales para derrotar a uno en un juego de la saga (lista ordenada):
 
 ## Mi instituto
 
-![IES Clara del Rey, Madrid (Wikimedia Commons)](https://upload.wikimedia.org/wikipedia/commons/2/28/I.e.s._clara_del_rey_%28Prosperidad%2C_Madrid%29.jpg)
+![IES Clara del Rey, Madrid (Wikimedia Commons)](https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/I.e.s._clara_del_rey_%28Prosperidad%2C_Madrid%29.jpg/960px-I.e.s._clara_del_rey_%28Prosperidad%2C_Madrid%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail)
 
 *Figura 2. Imagen de mi instituto obtenida de Wikimedia Commons.*
